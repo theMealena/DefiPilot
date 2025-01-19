@@ -1,0 +1,2 @@
+C:\Users\busschec\OneDrive - Barry-Wehmiller\Private\mes codes\C#Projects\EfiUndrive\bin\Publish\win-x86\EfiUndrive.pdb
+C:\Users\busschec\OneDrive - Barry-Wehmiller\Private\mes codes\C#Projects\EfiUndrive\bin\Publish\win-x86\EfiUndrive.exe

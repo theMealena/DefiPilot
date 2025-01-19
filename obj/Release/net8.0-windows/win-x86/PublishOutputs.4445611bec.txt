@@ -1,0 +1,2 @@
+D:\OneDrive - Barry-Wehmiller\Private\mes codes\C#Projects\EfiUndrive\bin\Publish\win-x86\DefiPilot.pdb
+D:\OneDrive - Barry-Wehmiller\Private\mes codes\C#Projects\EfiUndrive\bin\Publish\win-x86\DefiPilot.exe
